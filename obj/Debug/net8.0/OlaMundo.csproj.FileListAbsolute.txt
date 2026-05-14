@@ -1,0 +1,14 @@
+C:\Users\50454261845\Projetos\OlaMundo\OlaMundo\bin\Debug\net8.0\OlaMundo.exe
+C:\Users\50454261845\Projetos\OlaMundo\OlaMundo\bin\Debug\net8.0\OlaMundo.deps.json
+C:\Users\50454261845\Projetos\OlaMundo\OlaMundo\bin\Debug\net8.0\OlaMundo.runtimeconfig.json
+C:\Users\50454261845\Projetos\OlaMundo\OlaMundo\bin\Debug\net8.0\OlaMundo.dll
+C:\Users\50454261845\Projetos\OlaMundo\OlaMundo\bin\Debug\net8.0\OlaMundo.pdb
+C:\Users\50454261845\Projetos\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50454261845\Projetos\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.AssemblyInfoInputs.cache
+C:\Users\50454261845\Projetos\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.AssemblyInfo.cs
+C:\Users\50454261845\Projetos\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\50454261845\Projetos\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.dll
+C:\Users\50454261845\Projetos\OlaMundo\OlaMundo\obj\Debug\net8.0\refint\OlaMundo.dll
+C:\Users\50454261845\Projetos\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.pdb
+C:\Users\50454261845\Projetos\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.genruntimeconfig.cache
+C:\Users\50454261845\Projetos\OlaMundo\OlaMundo\obj\Debug\net8.0\ref\OlaMundo.dll

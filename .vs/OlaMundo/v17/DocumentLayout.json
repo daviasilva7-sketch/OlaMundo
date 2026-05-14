@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\50454261845\\Projetos\\OlaMundo\\OlaMundo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7D4E0C-94A9-4D47-989D-A0B7F47439C5}|..\\Exercicio05\\Exercicio05.csproj|c:\\users\\50454261845\\projetos\\olamundo\\exercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD17571-A8A3-45F0-9FD1-05701FC9391A}|..\\Exercicio03\\Exercicio03.csproj|c:\\users\\50454261845\\projetos\\olamundo\\exercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D7E672-61C9-4422-8484-E944D3B9ECFD}|..\\Exercicio04\\Exercicio04.csproj|c:\\users\\50454261845\\projetos\\olamundo\\exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\50454261845\\Projetos\\OlaMundo\\Exercicio05\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exercicio05\\Program.cs",
+              "ToolTip": "C:\\Users\\50454261845\\Projetos\\OlaMundo\\Exercicio05\\Program.cs",
+              "RelativeToolTip": "..\\Exercicio05\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:53:25.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\50454261845\\Projetos\\OlaMundo\\Exercicio04\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exercicio04\\Program.cs",
+              "ToolTip": "C:\\Users\\50454261845\\Projetos\\OlaMundo\\Exercicio04\\Program.cs",
+              "RelativeToolTip": "..\\Exercicio04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:32:47.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\50454261845\\Projetos\\OlaMundo\\Exercicio03\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exercicio03\\Program.cs",
+              "ToolTip": "C:\\Users\\50454261845\\Projetos\\OlaMundo\\Exercicio03\\Program.cs",
+              "RelativeToolTip": "..\\Exercicio03\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:32:34.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
